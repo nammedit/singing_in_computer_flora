@@ -8,7 +8,7 @@ Hello dear user of this code! First off there are two ways to evaluate code in S
 
 /*
 Set audio interface and boot;
-If unsure about the name of your device, evaluate the ServerOptions.devices on line 15 first and look in the Post window for a list of all the in- and out-devices available to your computer;
+If you are unsure about the name of your device, evaluate the ServerOptions.devices on line 15 first and look in the Post window for a list of all the in- and out-devices available to your computer;
 Replace the "your_device"-text on line 18 with the name of your device enclosed in quotes like the placeholder text and evaluate the bracket contents starting line 16 ending line 20
 TIP: text from the Post window can be copy-pasted
 */
